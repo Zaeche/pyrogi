@@ -1,8 +1,8 @@
-# Simple PDF merging application. 
+# Simple PDF merging application
 
-NB: only Windows release available at the moment; freezing a package for other OSes requires the process be carried out on the target OS--ie a Mac application necessitates I run it on a Mac. While a Linux release can be reasonably expected, I don't have easy access to a Mac--if someone would like to help with that, feel free to reach out :) 
+**NB: only Windows release available at the moment; freezing a package for other OSes requires the process be carried out on the target OS--ie a Mac application necessitates I run it on a Mac. While a Linux release can be reasonably expected, I don't have easy access to a Mac--if someone would like to help with that, feel free to reach out :) **
 
-# How to use this
+## How to use this
 Drop executable in directory containing PDFs to be merged and run it. 
 
 The order in which the files are merged is reflected in their ordering on the operating system. 
@@ -23,6 +23,9 @@ The files are renamed as follows:
 - 3_some_research.pdf
 - 4_more_research.pdf
 
-# Why Pyrogi
+## Why Pyrogi
 
 It's a pun on this, the humble [Pierogi](https://en.wikipedia.org/wiki/Pierogi#Poland).
+
+### TODO's
+> Finish list of TODOs
