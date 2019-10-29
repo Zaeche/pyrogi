@@ -1,4 +1,6 @@
-Simple PDF merging application. 
+#Simple PDF merging application. 
+
+((NB: only Windows release available at the moment; freezing a package for other OSes requires the process but carried out on the target OS (ie a Mac application necessitates I run it on a Mac). While a Linux release can be reasonably expected, I do not have access to a Mac--if someone would like to help with that, feel free to reach out.))
 
 Drop executable in directory containing PDFs to be merged and run it. 
 
@@ -19,4 +21,3 @@ The files are renamed as follows:
 - 2_cat_pictures.pdf
 - 3_some_research.pdf
 - 4_more_research.pdf
-
